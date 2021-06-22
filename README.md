@@ -1,6 +1,7 @@
 ### Hi there. I'm Adby 👋
 
 - 🔭 I’m currently working on F-Team
+- ❤ I'm a co-organizer at Flutterando and Fluttering
 - 🌱 I’m currently learning Flutter and Software Testing
 - 👯 I’m looking to collaborate on Flutter packages
 - 💬 Ask me about Flutter, testing and soccer
