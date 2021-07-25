@@ -1,10 +1,10 @@
 ### Hi there. I'm Adby 👋
 
-- 🔭 I’m currently working on F-Team
+- 🔭 I’m currently a Flutter Developer at FTeam
 - ❤ I'm a co-organizer at Flutterando and Fluttering
 - 🌱 I’m currently learning Flutter and Software Testing
 - 👯 I’m looking to collaborate on Flutter packages
-- 💬 Ask me about Flutter, testing and soccer
+- 💬 Ask me about Flutter, testing and music
 - 📫 How to reach me: adby.santos15@outlook.com
 - ⚡ Fun fact: I like Dota 2
 
