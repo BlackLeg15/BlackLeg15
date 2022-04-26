@@ -1,12 +1,12 @@
 ### Hi there. I'm Adby 👋
 
 - 🔭 I’m currently a Flutter Developer at FTeam
-- ❤ I'm a co-organizer at Flutterando and Fluttering
-- 🌱 I’m currently learning Flutter and Software Testing
+- ❤ I'm a co-organizer at Flutterando
+- 🌱 I’m currently learning Flutter, mentorship and Web3
 - 👯 I’m looking to collaborate on Flutter packages
-- 💬 Ask me about Flutter, testing and music
+- 💬 Ask me about Flutter, soccer and music
 - 📫 How to reach me: adby.santos15@outlook.com
-- ⚡ Fun fact: I like Dota 2
+- ⚡ Fun fact: I love my fiancée Rayssa Maria
 
 # Stats
 
