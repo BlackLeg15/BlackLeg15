@@ -22,6 +22,16 @@
 - <a target="_blank" href="https://medium.com/@adbysantos">Medium</a>
 - <a target="_blank" href="https://www.linkedin.com/in/adby-santos-a31a70158">LinkedIn</a>
 
+# My recent videos
+  
+[![Watch the video](https://img.youtube.com/vi/q4tTQmORooM/mqdefault.jpg)](https://youtu.be/q4tTQmORooM)
+
+[![Watch the video](https://img.youtube.com/vi/GRYvtI-C1bo/mqdefault.jpg)](https://youtu.be/GRYvtI-C1bo)
+  
+[![Watch the video](https://img.youtube.com/vi/PhfW0v-Nj20/mqdefault.jpg)](https://youtu.be/PhfW0v-Nj20)
+
+<a target="_blank" href="https://youtube.com/@oadbysantos">More videos here</a>
+
 # My recent articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/0" alt="Recent Article 0">
@@ -29,3 +39,5 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/1" alt="Recent Article 1">
   
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/2" alt="Recent Article 2">
+  
+<a target="_blank" href="https://medium.com/@adbysantos">More articles here</a>
