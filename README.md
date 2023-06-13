@@ -16,10 +16,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackLeg15)](https://github.com/anuraghazra/github-readme-stats)
 
+# You find me on:
+- <a target="_blank" href="https://instagram.com/oadbysantos">Instagram</a>
+- <a target="_blank" href="https://youtube.com/@oadbysantos">YouTube</a>
+- <a target="_blank" href="https://medium.com/@adbysantos">Medium</a>
+- <a target="_blank" href="https://www.linkedin.com/in/adby-santos-a31a70158">LinkedIn</a>
+
 # My recent articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blackleg15/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blackleg15/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/0" alt="Recent Article 0">
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blackleg15/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blackleg15/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/1" alt="Recent Article 1">
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@blackleg15/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@blackleg15/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adbysantos/2" alt="Recent Article 2">
