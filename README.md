@@ -1,10 +1,10 @@
-### Hi there. I'm Adby 👋
+### Hi there. I'm Adby Santos 👋
 
 - 🔭 I'm currently a Flutter Specialist at FTeam
 - ❤ I'm a co-organizer at Flutterando
-- 🌱 I'm currently learning Flutter and mentorship
+- 🌱 I'm currently learning Flutter, Kotlin and Kotlin Multiplatform
 - 📶 I love to create content on Instagram and YouTube
-- 💬 Ask me about Flutter, workout and music
+- 💬 Ask me about Flutter, workout and soccer
 - 📫 How to reach me: adby.santos15@outlook.com
 - ⚡ Relevant fact: I love my wife Rayssa Maria
 
@@ -21,6 +21,7 @@
 - <a target="_blank" href="https://youtube.com/@oadbysantos">YouTube</a>
 - <a target="_blank" href="https://medium.com/@adbysantos">Medium</a>
 - <a target="_blank" href="https://www.linkedin.com/in/adby-santos-a31a70158">LinkedIn</a>
+- <a target="_blank" href="https://blackleg15.github.io">Portfolio</a>
 
 # My recent videos
   
