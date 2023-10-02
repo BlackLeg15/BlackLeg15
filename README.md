@@ -21,7 +21,7 @@
 - <a target="_blank" href="https://youtube.com/@oadbysantos">YouTube</a>
 - <a target="_blank" href="https://medium.com/@adbysantos">Medium</a>
 - <a target="_blank" href="https://www.linkedin.com/in/adby-santos-a31a70158">LinkedIn</a>
-- <a target="_blank" href="https://blackleg15.github.io">Portfolio</a>
+- <a target="_blank" href="https://blackleg15.github.io/Portfolio">Portfolio</a>
 
 # My recent videos
   
