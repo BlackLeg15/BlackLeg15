@@ -5,7 +5,7 @@
 - 📶 I love to create content on Instagram and YouTube
 - 💬 Ask me about Flutter, workout, soccer and games
 - 📫 How to reach me: adby.santos15@outlook.com
-- ⚡ Relevant fact: I love my wife Rayssa Maria
+- ⚡ Relevant fact: I love my wife Rayssa Maria and my daughter Maria Rita
 
 # Stats
 ![](https://komarev.com/ghpvc/?username=blackleg15) \
