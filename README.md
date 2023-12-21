@@ -1,10 +1,9 @@
 ### Hi there. I'm Adby Santos 👋
 
 - 🔭 I'm currently a Flutter Specialist at FTeam
-- ❤ I'm a co-organizer at Flutterando
 - 🌱 I'm currently learning Flutter, Jetpack Compose and Kotlin Multiplatform
 - 📶 I love to create content on Instagram and YouTube
-- 💬 Ask me about Flutter, workout and soccer
+- 💬 Ask me about Flutter, workout, soccer and games
 - 📫 How to reach me: adby.santos15@outlook.com
 - ⚡ Relevant fact: I love my wife Rayssa Maria
 
