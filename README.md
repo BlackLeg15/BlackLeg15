@@ -1,9 +1,9 @@
 ### Hi there. I'm Adby Santos 👋
 
-- 🔭 I'm currently a Flutter Specialist at FTeam
-- 🌱 I'm currently learning Flutter, Jetpack Compose and Kotlin Multiplatform
+- 🔭 I'm currently a Flutter Specialist at <a href="https://www.kobe.io">Kobe</a>
+- 🌱 I'm currently learning Flutter and Team Leadership
 - 📶 I love to create content on Instagram and YouTube
-- 💬 Ask me about Flutter, workout, soccer and games
+- 💬 Ask me about workout, soccer, games and movies
 - 📫 How to reach me: adby.santos15@outlook.com
 - ⚡ Relevant fact: I love my wife Rayssa Maria and my daughter Maria Rita
 
