@@ -1,7 +1,7 @@
 ### Hi there. I'm Adby Santos 👋
 
-- 🔭 I'm currently a Flutter Specialist at <a href="https://www.kobe.io">Kobe</a>
-- 🌱 I'm currently learning Flutter and Team Leadership
+- 🔭 I'm currently a Senior Mobile Engineer at <a href="https://www.kobe.io">Kobe</a>
+- 🌱 I'm currently learning AI Assisted Development
 - 📶 I love to create content on Instagram and YouTube
 - 💬 Ask me about workout, soccer, games and movies
 - 📫 How to reach me: adby.santos15@outlook.com
