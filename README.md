@@ -1,11 +1,10 @@
 ### Hi there. I'm Adby Santos 👋
 
 - 🔭 I'm currently a Senior Mobile Engineer at <a href="https://www.kobe.io">Kobe</a>
-- 🌱 I'm currently learning AI Assisted Development
+- 🌱 I'm currently learning Software Development with AI
 - 📶 I love to create content on Instagram and YouTube
 - 💬 Ask me about workout, soccer, games and movies
 - 📫 How to reach me: adby.santos15@outlook.com
-- ⚡ Relevant fact: I love my wife Rayssa Maria and my daughter Maria Rita
 
 # Stats
 ![](https://komarev.com/ghpvc/?username=blackleg15) \
